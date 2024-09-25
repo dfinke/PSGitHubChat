@@ -1,3 +1,12 @@
+[![Follow on Twitter](https://img.shields.io/twitter/follow/dfinke.svg?style=social&label=Follow%20%40dfinke)](https://twitter.com/dfinke)
+[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCP47ZkO5EDkoI2sr-3P4ShQ
+)](https://youtube.com/@dougfinke/)
+
+[![](https://img.shields.io/powershellgallery/v/PSGitHubChat.svg)](https://www.powershellgallery.com/packages/PSGitHubChat)
+[![](https://img.shields.io/powershellgallery/dt/PSGitHubChat.svg)](https://www.powershellgallery.com/packages/PSGitHubChat)
+[![Changelog](https://img.shields.io/github/v/release/dfinke/PSGitHubChat?include_prereleases&label=changelog)](https://github.com/dfinke/PSGitHubChat/releases)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/dfinke/PSGitHubChat/blob/master/LICENSE)
+
 # PowerShell GitHub Chat
 
 Enhance your workflow with PowerShell GitHub Chat. This tool lets you test a variety of AI models, each with its own flair and specialty. 
@@ -88,3 +97,11 @@ $result | Format-List
 ## Results
 
 ![alt text](media/Model-Responses.png)
+
+## My Other AI PowerShell Modules
+
+- PowerShell OpenAI AI module: PSAI. Think ChatGPT meets PowerShell, in your console.
+
+    - Install it with `Install-Module PSAI`
+    - GitHub: https://github.com/dfinke/PSAI
+
